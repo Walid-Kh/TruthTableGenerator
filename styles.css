@@ -1,0 +1,39 @@
+html{
+  background-color: #2e3440;
+}
+.tb
+{
+  display: flex;
+}
+table
+{
+  margin: 30px auto ;  
+  font-size: 14pt;
+  font-family:  Helvetica;
+  text-align: center;
+  color:whitesmoke;
+  border-collapse: collapse;
+}
+table th 
+{
+  border: 1px solid rgba(255,255,255,0.5); 
+  text-align: center;
+  padding: 4px 20px 4px 20px;
+}
+table td 
+{
+  border: 1px solid rgba(235,235,228,0.5); 
+  padding: 4px 8px ;
+}
+li
+{
+  font-size: 14pt;
+}
+span
+{
+  font-size: 16pt;
+}
+p 
+{
+  font-size: 14pt;
+}
