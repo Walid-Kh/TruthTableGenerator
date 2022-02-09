@@ -1,12 +1,3 @@
-<head>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous" />
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="styles.css">
-  <title>Truth table Generator</title>
-</head>
 
 <body style="background-color: #2e3440">
   <div class="container" style="max-width: 700px;" class="text">
@@ -22,26 +13,3 @@
       <li><span class="font-weight-bold"> | </span>OR operator</li>
     </ul>
     </p>
-    <div class="position-relative">
-      <form class="text-center">
-        <input type="text" id="expression" style="max-width: 500px;"
-          class="form-control d-block mx-auto my-3 text-center " placeholder="Enter a logical expression"
-          autocomplete="off" />
-        <button type="submit" class="btn btn-light btn-lg">Generate</button>
-      </form>
-      <table>
-        <tr class="header">
-
-        </tr>
-
-      </table>
-    </div>
-    <div class="tb">
-      <table></table>
-
-    </div>
-  </div>
-  <script type="module" src="./index.js"></script>
-  <script type="module" src="./modules/logic.js"></script>
-  <script type="module" src="./modules/ui.js"></script>
-</body>
