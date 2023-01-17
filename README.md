@@ -8,7 +8,8 @@ the supported Operations are as follows:
 - ! NOT operator
 - & AND operator
 - | OR operator
-- 
+
+
 ## Examples  
 
 
