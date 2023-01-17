@@ -13,7 +13,10 @@
       <li><span class="font-weight-bold"> | </span>OR operator</li>
     </ul>
     </p>
-    ## Examples 
-    ![A & B](https://raw.githubusercontent.com/Walid-Kh/TruthTableGenerator/main/imgs/Screenshot%20from%202023-01-17%2003.02.47.png)
-    ![A & ( B | C )](https://raw.githubusercontent.com/Walid-Kh/TruthTableGenerator/main/imgs/Screenshot%20from%202023-01-17%2003.03.42.png)
+    ## Examples  
+  
+    ![A & B](https://raw.githubusercontent.com/Walid-Kh/TruthTableGenerator/main/imgs/Screenshot%20from%202023-01-17%2003.02.47.png)  
+  
+    ![A & ( B | C )](https://raw.githubusercontent.com/Walid-Kh/TruthTableGenerator/main/imgs/Screenshot%20from%202023-01-17%2003.03.42.png)  
+  
     ![A & ( B | C )](https://raw.githubusercontent.com/Walid-Kh/TruthTableGenerator/main/imgs/Screenshot%20from%202023-01-17%2003.04.19.png)
